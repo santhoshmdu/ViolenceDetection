@@ -153,20 +153,6 @@ python app.py
 
 ---
 
-## 📁 Project Structure
-
-```
-Violence-detection-using-X3D/
-├── app.py                  # Main Tkinter application
-├── model/
-│   ├── x3d_model.py       # X3D architecture
-│   └── weights/           # Pre-trained weights
-├── utils/
-│   ├── video_processor.py # Frame extraction
-│   └── alert_system.py    # Notification handler
-├── requirements.txt
-└── README.md
-```
 
 ---
 
